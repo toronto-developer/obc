@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'csv'
+require "csv"
 
 csv_input = ""
 
