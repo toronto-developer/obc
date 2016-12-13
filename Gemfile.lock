@@ -1,0 +1,13 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    interpolate (0.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  interpolate (~> 0.3.0)
+
+BUNDLED WITH
+   1.11.2
